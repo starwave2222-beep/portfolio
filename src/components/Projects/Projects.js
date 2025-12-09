@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import hisync from "../../Assets/Projects/hisync.png";
 import sharpmower from "../../Assets/Projects/sharpmower.png";
 import dealeraddendums from "../../Assets/Projects/dealeraddendums.png";
-import cariclub from "../../Assets/Projects/cariclub.png";
+import medreception from "../../Assets/Projects/medreception.png";
 import soft4school from "../../Assets/Projects/soft4school.png";
 import instantinsites from "../../Assets/Projects/instantinsites.png";
 
@@ -23,12 +23,12 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={cariclub}
+              imgPath={medreception}
               isBlog={false}
-              title="CariClub"
-              description="Our mission is to unlock the potential within each individual to become a driving force for good."
+              title="medreception"
+              description="Book more patients in minutes. Launch an AI receptionist that answers, books, and summarizes every call—day or night."
               ghLink=""
-              demoLink="https://cariclub.com/"
+              demoLink="https://www.medreception.ai/"
             />
           </Col>
 

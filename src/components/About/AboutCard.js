@@ -19,19 +19,19 @@ function AboutCard() {
             <br />
             <b className="purple">Experience:</b>
             <br />
-            <b>Breakout EDU, Remote – Senior Full Stack Engineer (Oct 2022 – Nov 2025)</b>
-            <p>At BreakoutEDU, I help build and maintain the platform that powers interactive learning experiences for educators and students.</p>
+            <b>AERA Health, Remote – Senior Full Stack Engineer (Oct 2024 – Oct 2025)</b>
+            <p>At AERA Health, I built an AI-powered calling and scheduling platform.</p>
             <ul>
-              <li>Solved large-scale performance and scaling challenges for interactive learning systems using Python (Django, FastAPI), React/TypeScript, and Node.js, increasing platform capacity and concurrency handling by 40%.</li>
+              <li>Implemented platform using GHL and Retell AI and improved agent correctness from 80% to 97%.</li>
+              <li>Solved large-scale performance and scaling challenges for the platform using Python (Django, FastAPI), React/TypeScript, and Node.js, increasing platform capacity and concurrency handling by 40%.</li>
               <li>Architected and developed high-performance RESTful APIs, GraphQL services, and microservices, reducing system latency by 35% and improving request throughput during peak usage.</li>
               <li>Built and optimized cloud-native infrastructure using AWS Lambda, ECS, S3, RDS, API Gateway, CloudFront, achieving 99.9% uptime and supporting global, low-latency delivery.</li>
               <li>Led development of LLM & GenAI-powered features using OpenAI API, LangChain, LlamaIndex, embeddings, and RAG pipelines, improving personalized learning experiences and user engagement by 25%.</li>
               <li>Strengthened platform security and compliance with OAuth2/JWT authentication, SSL/TLS encryption, IAM hardening, and SOC2-ready practices, reducing security incidents by 90%.</li>
               <li>Streamlined DevOps workflows and CI/CD pipelines using GitHub Actions, Docker, Kubernetes, IaC (Terraform/CloudFormation), cutting deployment times by 30% and improving release reliability.</li>
               <li>Collaborated closely with product, design, backend, and data teams, providing technical leadership across architecture, debugging, code reviews, and full-stack feature development.</li>
-
             </ul>
-            <b>Topgolf, Dallas, TX  – Python Full Stack Engineer (Sep 2021 – Sep 2022)</b>
+            <b>Topgolf, Dallas, TX  – Python Full Stack Engineer (Sep 2022 – Sep 2024)</b>
             <p>I worked as a lead developer on one of Topgolf’s largest internal systems—the Sales Reservation Management PIE platform.</p>
             <ul>
               <li>Improved the Sales Reservation Management PIE platform by resolving critical backend bottlenecks, increasing booking performance by 45%.</li>
@@ -40,7 +40,7 @@ function AboutCard() {
               <li>Strengthened internal dashboards using React/Redux, improving frontend responsiveness and reducing load times across key workflows.</li>
               <li>Streamlined deployments with improved CI/CD pipelines (Docker, Kubernetes, GitHub Actions/Jenkins), cutting deployment friction by 35% and improving release stability.</li>
             </ul>
-            <b>Experian, Greater Sacramento, CA – Senior Computer Programmer (Sep 2014 – Oct 2021)</b>
+            <b>Experian, Greater Sacramento, CA – Senior Computer Programmer (Sep 2020 – Oct 2022)</b>
             <p>During my time at Experian, I focused on automation, system reliability, and improving internal workflows.</p>
             <ul>
               <li>Engineered end-to-end automation solutions using Python (FastAPI, Django), Node.js, and Bash, eliminating manual workflows and improving engineering productivity by 40% while reducing operational errors by 50%.</li>

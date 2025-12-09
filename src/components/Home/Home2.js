@@ -17,7 +17,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Senior Python Full Stack Engineer with <b className="purple">11+ years of experience</b> designing and building large-scale, high-performance platforms using
+              Senior Python Full Stack Engineer with <b className="purple">5+ years of experience</b> designing and building large-scale, high-performance platforms using
               <b className="purple">Python, Django, FastAPI, Node.js, and React/TypeScript</b>. Expert in <b className="purple">backend architecture, microservices, REST/GraphQL APIs,
               cloud-native infrastructure (AWS/Azure), and database optimization.</b>
               Proven track record in <b className="purple">scaling complex systems, automating workflows, improving reliability and performance</b>, and leading the
